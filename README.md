@@ -23,7 +23,8 @@ Use different models to compare the accuracies and find the model that best fits
 3. Visualize
 You will use Tableau to visually explore the data further. The questions have been provided in this document for which you can use tableau.
 
-Here you cand find the links to our Tableu Dashboard and slides:
+Here you cand find the links to our Tableau Dashboard and slides:
+
 Tableau Dashboard : https://public.tableau.com/app/profile/pablo.martin1557/viz/TableauMidProject/DASHBOARD?publish=yes
 
 Slides: https://slides.com/kotarum/palette#/4
