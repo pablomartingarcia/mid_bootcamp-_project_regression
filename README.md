@@ -25,4 +25,5 @@ You will use Tableau to visually explore the data further. The questions have be
 
 Here you cand find the links to our Tableu Dashboard and slides:
 Tableau Dsshboard : https://public.tableau.com/app/profile/pablo.martin1557/viz/TableauMidProject/DASHBOARD?publish=yes
+
 Slides: https://slides.com/kotarum/palette#/4
