@@ -1,6 +1,6 @@
 ## mid_bootcamp-_project_regression
 
-Mid Bootcamp Group Project : Dayanara Zambrano, Pablo MArtin, Javier Gómez.
+Mid Bootcamp Group Project : Dayanara Zambrano, Pablo Martin, Javier Gómez.
 
 # Scenario
 
